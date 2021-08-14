@@ -26,6 +26,7 @@ github_username: adam-zhang
 # Build settings
 markdown: kramdown
 theme: minima
+encoding: utf8
 plugins:
   - jekyll-feed
 
